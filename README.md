@@ -21,6 +21,7 @@ Required Equipments
 
     Pulse Sensor
 
+![](Fitness_Tracker/block_d1.jpg)
 
 
 
