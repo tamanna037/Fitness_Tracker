@@ -35,7 +35,7 @@ User can start and stop the system by sending sms and also get his/her performan
 
 **Block Diagram** 
 
-![](Fitness_Tracker/filename block_d1.jpg)
+![](Fitness_Tracker/filename%20block_d1.jpg)
 
 **Pin Diagram**
 
