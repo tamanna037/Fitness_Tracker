@@ -21,10 +21,6 @@ Required Equipments
 
     Pulse Sensor
 
-![](Fitness_Tracker/block_d1.jpg)
-
-
-
 
 **How it works?**
 
@@ -33,6 +29,16 @@ In this project , two arduino is used for interfacing to various hardware periph
 Pulse sensor measures BPM (beats per minute) of user from his/her fingertip on every 2ms and sends to another arduino via bluetooth module. Piezo sensor is placed on the bottom of the user's foot and used to detect steps by sensing pressure on the top of the sensor. Calories and distance is calculated using this step count and height & weight of user.
 
 User can start and stop the system by sending sms and also get his/her performance status via sms. When user request is sent to the number at the GSM, the GSM automatically sends a return reply to that mobile describing total distance covered, total calories burnt & BPM. It also sends a warning sms if BPM of user is in alarming condition. 
+
+
+**Block Diagram**
+
+![](Fitness_Tracker/block_d1.jpg)
+
+
+**Pin Diagram**
+![](Fitness_Tracker/master.jpg)
+![](Fitness_Tracker/slave.jpg)
 
 
 **Algorithm**
