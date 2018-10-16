@@ -33,13 +33,6 @@ Pulse sensor measures BPM (beats per minute) of user from his/her fingertip on e
 
 User can start and stop the system by sending sms and also get his/her performance status via sms. When user request is sent to the number at the GSM, the GSM automatically sends a return reply to that mobile describing total distance covered, total calories burnt & BPM. It also sends a warning sms if BPM of user is in alarming condition. 
 
-**Block Diagram** 
-
-![](Fitness_Tracker/filename%20block_d1.jpg)
-
-**Pin Diagram**
-
-
 
 **Algorithm**
 
