@@ -7,7 +7,7 @@ In this project, we have designed an embedded system which is used to keep track
 
 
 
-Required Equipments
+**Required Equipments**
 
     Arduino Uno
 
@@ -50,7 +50,7 @@ User can start and stop the system by sending sms and also get his/her performan
 **Algorithm**
 
 
-   **Arduino with Pulse sensor:**
+   **##Arduino with Pulse sensor:**
 
     setup():
         set baud rate for bluetooth module()
@@ -142,7 +142,7 @@ User can start and stop the system by sending sms and also get his/her performan
 
           enable interrupts
 
-   **Arduino with GSM & Piezo Sensor:**
+   **##Arduino with GSM & Piezo Sensor:**
 
          setup():
          set baud rate for GSM
